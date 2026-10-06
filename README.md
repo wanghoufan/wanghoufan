@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 作品（共 23 个）
+## 🚀 作品（共 25 个）
 
 ### 💰 投资理财（3）
 
@@ -19,7 +19,7 @@
 - [红利打新底仓计算器](https://github.com/wanghoufan/p022-hongli-dixin-calc)：一次算清九个指数买哪几只几手，成交后自动重建持仓
 - [家庭保单数据看板](https://github.com/wanghoufan/p001-family-insurance-dashboard)：谁保障不够、哪张快到期、今年交多少钱，一页说清
 
-### ⚡ 效率与 AI（7）
+### ⚡ 效率与 AI（9）
 
 - [中美汇率看板](https://github.com/wanghoufan/p036-cny-us-rate-board)：当前汇率近几年算高还是算低，桌面小组件随时瞟
 - [滚仓计算器](https://github.com/wanghoufan/p013-roll-position-calculator)：每级涨多少加多少杠杆走到哪会崩，先演给你看
@@ -28,6 +28,8 @@
 - [DeepSeek 额度悬浮窗 Mac](https://github.com/wanghoufan/p010-deepseek-balance-mac)：额度桌面一眼看到，快用完会响提醒
 - [额度悬浮窗 Windows 版](https://github.com/wanghoufan/p010-deepseek-balance-windows)：DeepSeek 余额和 ChatGPT 用量摆在桌面盯着
 - [AI 超级求职助手](https://github.com/wanghoufan/ai-resume-job-matcher)：简历加岗位描述就出匹配分析，简历还能变在线主页
+- [提示词管理器](https://github.com/wanghoufan/p006-prompt-manager)：常用提示词存成能搜的卡片，复制过几次一目了然，还能让 AI 编程助手一句「调取」就按它开工
+- [AI 图文短剧分镜生成器](https://github.com/wanghoufan/p044-ai-storyboard-studio)：输入主题和剧本就出图文分镜，每个镜头配一张画面，短视频前期直接能用
 
 ### 🎉 聚会与生活（8）
 
