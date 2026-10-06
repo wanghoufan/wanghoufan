@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 作品（共 22 个）
+## 🚀 作品（共 23 个）
 
 ### 💰 投资理财（3）
 
@@ -40,10 +40,11 @@
 - [海口 50 家咖啡店](https://github.com/wanghoufan/50-haikou-cafes)：给愿意为一家店走一条巷子的人写的城市咖啡指南
 - [候鸟 · 数字游民旅居季](https://github.com/wanghoufan/nomad-seasons)：按月份气候预算网络筛出适合长住的城市并排出高低
 
-### 🏃 健康（2）
+### 🏃 健康（3）
 
 - [拉伸语音播报](https://github.com/wanghoufan/p025-stretch-routine-app)：动作和节拍靠语音念给你听，跟着走完一轮就行
 - [拉伸换边计时器](https://github.com/wanghoufan/p020-stretch-side-timer)：这边响完提醒换那边，还有小动物陪着练
+- [蛋白质计算器](https://github.com/wanghoufan/p027-protein-calculator)：每天该吃多少蛋白、这顿还差多少，按体重给目标，高蛋白食物一查就能加
 
 ### 📸 影像（2）
 
