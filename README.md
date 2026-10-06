@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 作品（共 25 个）
+## 🚀 作品（共 27 个）
 
 ### 💰 投资理财（3）
 
@@ -30,6 +30,11 @@
 - [AI 超级求职助手](https://github.com/wanghoufan/ai-resume-job-matcher)：简历加岗位描述就出匹配分析，简历还能变在线主页
 - [提示词管理器](https://github.com/wanghoufan/p006-prompt-manager)：常用提示词存成能搜的卡片，复制过几次一目了然，还能让 AI 编程助手一句「调取」就按它开工
 - [AI 图文短剧分镜生成器](https://github.com/wanghoufan/p044-ai-storyboard-studio)：输入主题和剧本就出图文分镜，每个镜头配一张画面，短视频前期直接能用
+
+### 🧭 方法与体系（2）
+
+- [Skill 能力地图](https://github.com/wanghoufan/alw-002-skill-system-map)：把工作和学习里攒下的方法整理成一张能力地图，会什么、从哪来、彼此怎么衔接，一眼看清
+- [ORCA 治理模板](https://github.com/wanghoufan/orca-v2.1-governance)：多智能体协作照着它开工，全员规则、角色卡、计划与验收模板、账本校验一次铺好，按阶段推进不跑偏
 
 ### 🎉 聚会与生活（8）
 
