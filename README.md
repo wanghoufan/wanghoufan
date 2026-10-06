@@ -7,7 +7,7 @@
 - 🏄 爱滑雪、冲浪、健身，也爱写代码，玩得开心最重要
 - 📚 长期阅读，把生活里的问题一个个做成能用的小工具
 - 🤖 用 AI 编程把「一闪念」变成公开上线的作品
-- 🌐 **个人网站：[houfan-xuezhang-site.vercel.app](https://houfan-xuezhang-site.vercel.app)**
+- 🌐 **个人网站：[wanghoufan.github.io/p003-houfan-xuezhang-site](https://wanghoufan.github.io/p003-houfan-xuezhang-site/)**
 
 ---
 
