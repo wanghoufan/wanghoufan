@@ -57,3 +57,6 @@
 
 - [Skill 能力地图](https://github.com/wanghoufan/alw-002-skill-system-map)：把工作和学习里攒下的方法整理成一张能力地图，会什么、从哪来、彼此怎么衔接，一眼看清
 - [ORCA 治理模板](https://github.com/wanghoufan/orca-v2.1-governance)：多智能体协作照着它开工，全员规则、角色卡、计划与验收模板、账本校验一次铺好，按阶段推进不跑偏
+
+  <img src="https://raw.githubusercontent.com/wanghoufan/orca-v2.1-governance/main/docs/assets/orca-two-phase-flow.png" alt="ORCA 两阶段治理总流程" width="720">
+  <img src="https://raw.githubusercontent.com/wanghoufan/orca-v2.1-governance/main/docs/assets/orca-roles-dispatch-chain.png" alt="ORCA 角色阵容与派工主链" width="720">
