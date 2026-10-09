@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 27 个）
+## 🚀 作品（共 28 个）
 
 ### 💰 投资理财（3）
 
@@ -33,7 +33,7 @@
 - [提示词管理器](https://github.com/wanghoufan/p006-prompt-manager)：常用提示词存成能搜的卡片，复制过几次一目了然，还能让 AI 编程助手一句「调取」就按它开工
 - [AI 图文短剧分镜生成器](https://github.com/wanghoufan/p044-ai-storyboard-studio)：输入主题和剧本就出图文分镜，每个镜头配一张画面，短视频前期直接能用
 
-### 🎉 聚会与生活（8）
+### 🎉 聚会与生活（9）
 
 - [酒吧游戏](https://github.com/wanghoufan/p039-bar-games)：人数尺度雷区先说好，玩法自动轮流出题，手机打开就开局
 - [聚会游戏 Party Night](https://github.com/wanghoufan/p028-party-night)：真心话大冒险和谁最可能轮着上，冷场交给它
@@ -43,6 +43,7 @@
 - [地点手账](https://github.com/wanghoufan/p011-place-journal)：去过的地方攒成手账，按地点和标签翻回那天的感觉
 - [海口 50 家咖啡店](https://github.com/wanghoufan/50-haikou-cafes)：给愿意为一家店走一条巷子的人写的城市咖啡指南
 - [候鸟 · 数字游民旅居季](https://github.com/wanghoufan/nomad-seasons)：按月份气候预算网络筛出适合长住的城市并排出高低
+- [麻将小白助手](https://github.com/wanghoufan/p046-mahjong-beginner-assistant)：第一次上桌打海南麻将前，先把「什么情况下能胡」看明白，规则全配真实牌面
 
 ### 🏃 健康（3）
 
