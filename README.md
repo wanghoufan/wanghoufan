@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 28 个）
+## 🚀 作品（共 29 个）
 
 ### 💰 投资理财（3）
 
@@ -45,11 +45,12 @@
 - [候鸟 · 数字游民旅居季](https://github.com/wanghoufan/nomad-seasons)：按月份气候预算网络筛出适合长住的城市并排出高低
 - [麻将小白助手](https://github.com/wanghoufan/p046-mahjong-beginner-assistant)：第一次上桌打海南麻将前，先把「什么情况下能胡」看明白，规则全配真实牌面
 
-### 🏃 健康（3）
+### 🏃 健康（4）
 
 - [拉伸语音播报](https://github.com/wanghoufan/p025-stretch-routine-app)：动作和节拍靠语音念给你听，跟着走完一轮就行
 - [拉伸换边计时器](https://github.com/wanghoufan/p020-stretch-side-timer)：这边响完提醒换那边，还有小动物陪着练
 - [蛋白质计算器](https://github.com/wanghoufan/p027-protein-calculator)：每天该吃多少蛋白、这顿还差多少，按体重给目标，高蛋白食物一查就能加
+- [盆底肌训练](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.0)：戴上耳机跟着语音收紧放松，六级进阶自动排课，不用盯屏幕数次数
 
 ### 📸 影像（2）
 
