@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 29 个）
+## 🚀 作品（共 30 个）
 
 ### 💰 投资理财（3）
 
@@ -44,6 +44,10 @@
 - [海口 50 家咖啡店](https://github.com/wanghoufan/50-haikou-cafes)：给愿意为一家店走一条巷子的人写的城市咖啡指南
 - [候鸟 · 数字游民旅居季](https://github.com/wanghoufan/nomad-seasons)：按月份气候预算网络筛出适合长住的城市并排出高低
 - [麻将小白助手](https://github.com/wanghoufan/p046-mahjong-beginner-assistant)：第一次上桌打海南麻将前，先把「什么情况下能胡」看明白，规则全配真实牌面
+
+### 🗣️ 语言学习（1）
+
+- [SocialMate 外语社交系统](https://github.com/wanghoufan/alw-001-foreign-language-social-system)：练前挑话题、按场景难度模拟口语，聊完把真实交流整理成下次能续上的人物档案
 
 ### 🏃 健康（4）
 
