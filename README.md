@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 31 个）
+## 🚀 作品（共 32 个）
 
 ### 💰 投资理财（3）
 
@@ -62,8 +62,9 @@
 - [摄影作品库](https://github.com/wanghoufan/p015-photo-library)：按地点风格构图筛出满意的一批，链接一甩给别人看
 - [夜间补光灯](https://github.com/wanghoufan/p026-yejian-buguangdeng)：手边没灯时第二台手机就是补光灯，全屏常亮颜色强度随调
 
-### 🧭 方法与体系（2）
+### 🧭 方法与体系（3）
 
 - [Skill 能力地图](https://github.com/wanghoufan/alw-002-skill-system-map)：把工作和学习里攒下的方法整理成一张能力地图，会什么、从哪来、彼此怎么衔接，一眼看清
 - [ORCA 多智能体开发系统](https://github.com/wanghoufan/orca-v2.1-governance)：多智能体协作照着它开工，全员规则、角色卡、计划与验收模板、账本校验一次铺好，按阶段推进不跑偏
+- [精选 Skill 开源仓库](https://github.com/wanghoufan/alw-003-curated-skill-open-source)：把真实项目里跑通过的 AI Skill 集中放一处，每项讲清解决什么问题、要什么前提、安全边界在哪，适不适合你的流程一眼判
 
