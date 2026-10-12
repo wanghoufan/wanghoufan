@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 30 个）
+## 🚀 作品（共 31 个）
 
 ### 💰 投资理财（3）
 
@@ -49,12 +49,13 @@
 
 - [SocialMate 外语社交系统](https://github.com/wanghoufan/alw-001-foreign-language-social-system)：练前挑话题、按场景难度模拟口语，聊完把真实交流整理成下次能续上的人物档案
 
-### 🏃 健康（4）
+### 🏃 健康（5）
 
 - [拉伸语音播报](https://github.com/wanghoufan/p025-stretch-routine-app)：动作和节拍靠语音念给你听，跟着走完一轮就行
 - [拉伸换边计时器](https://github.com/wanghoufan/p020-stretch-side-timer)：这边响完提醒换那边，还有小动物陪着练
 - [蛋白质计算器](https://github.com/wanghoufan/p027-protein-calculator)：每天该吃多少蛋白、这顿还差多少，按体重给目标，高蛋白食物一查就能加
 - [盆底肌训练](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.0)：戴上耳机跟着语音收紧放松，六级进阶自动排课，不用盯屏幕数次数
+- [慢食刻](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0)：吃饭太快就先按 10 分钟慢慢吃完，光球计时全程静音，饭后说两句感受存进本机
 
 ### 📸 影像（2）
 
