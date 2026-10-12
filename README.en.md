@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (27 total)
+## 🚀 Projects (32 total)
 
 ### 💰 Investing (3)
 
@@ -33,7 +33,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Prompt Manager](https://github.com/wanghoufan/p006-prompt-manager): keep prompts as searchable cards, see how often each was copied, and let an AI coding agent pick one up with a single "retrieve" command
 - [AI Storyboard Studio](https://github.com/wanghoufan/p044-ai-storyboard-studio): give it a topic and a script and get an illustrated shot list — one frame per shot, usable straight away in short-video preproduction
 
-### 🎉 Parties & Everyday Life (8)
+### 🎉 Parties & Everyday Life (9)
 
 - [Bar Games](https://github.com/wanghoufan/p039-bar-games): agree on headcount, limits and landmines first, then it rotates the prompts automatically — open it on your phone and start
 - [Party Night](https://github.com/wanghoufan/p028-party-night): truth or dare and "who is most likely to…" — it takes care of the awkward silences
@@ -43,19 +43,27 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Place Journal](https://github.com/wanghoufan/p011-place-journal): collect the places you have been and flip back to how that day felt, by place and by tag
 - [50 Haikou Cafés](https://github.com/wanghoufan/50-haikou-cafes): a city coffee guide written for people willing to walk down an alley for a single shop
 - [Nomad Seasons](https://github.com/wanghoufan/nomad-seasons): ranks cities worth a long stay by month, climate, budget and connectivity
+- [Mahjong Beginner Assistant](https://github.com/wanghoufan/p046-mahjong-beginner-assistant): before your first Haikou-style mahjong table, see clearly when a hand can actually win — every rule shown on real tiles
 
-### 🏃 Health (3)
+### 🗣️ Language Learning (1)
+
+- [SocialMate Foreign-Language Social System](https://github.com/wanghoufan/alw-001-foreign-language-social-system): pick topics and drill speaking at a chosen scene difficulty, then turn the real conversation into persona files you can pick up next time
+
+### 🏃 Health (5)
 
 - [Stretch Voice Coach](https://github.com/wanghoufan/p025-stretch-routine-app): it reads the moves and the beat out loud, so you never watch the clock — just follow along
 - [Stretch Side Timer](https://github.com/wanghoufan/p020-stretch-side-timer): pings you when it is time to switch sides, with a little animal practising alongside you
 - [Protein Calculator](https://github.com/wanghoufan/p027-protein-calculator): how much protein you need each day and how short this meal is — targets from body weight, high-protein foods one tap away
+- [Kegel Training](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.0): put on headphones and tighten and release on the voice cues — six levels scheduled for you, no counting on screen
+- [Mindful Eating](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0): if you eat too fast, spend 10 minutes finishing slowly — a silent light-orb timer, then a couple of words about the meal saved on this device
 
 ### 📸 Imaging (2)
 
 - [Photo Library](https://github.com/wanghoufan/p015-photo-library): filter shots by location, style and composition, then hand someone a single link
 - [Night Fill Light](https://github.com/wanghoufan/p026-yejian-buguangdeng): when you have no lamp, a second phone becomes a full-screen fill light with colour and intensity on a dial
 
-### 🧭 Methods & Systems (2)
+### 🧭 Methods & Systems (3)
 
 - [Skill Map](https://github.com/wanghoufan/alw-002-skill-system-map): turns the methods you picked up at work and in study into one capability map — what you can do, where it came from, and how the pieces connect
 - [ORCA Multi-Agent Dev System](https://github.com/wanghoufan/orca-v2.1-governance): rules for everyone, role cards, plan and acceptance templates, ledger checks — laid out once so multi-agent work keeps to the rails
+- [Curated Skills](https://github.com/wanghoufan/alw-003-curated-skill-open-source): AI skills that already worked on real projects, each written up with what it solves, what it assumes and where its safety boundaries are, so you can judge the fit at a glance
