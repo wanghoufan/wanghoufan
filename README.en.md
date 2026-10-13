@@ -54,7 +54,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Stretch Voice Coach](https://github.com/wanghoufan/p025-stretch-routine-app): it reads the moves and the beat out loud, so you never watch the clock — just follow along
 - [Stretch Side Timer](https://github.com/wanghoufan/p020-stretch-side-timer): pings you when it is time to switch sides, with a little animal practising alongside you
 - [Protein Calculator](https://github.com/wanghoufan/p027-protein-calculator): how much protein you need each day and how short this meal is — targets from body weight, high-protein foods one tap away
-- [Kegel Training](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.0): put on headphones and tighten and release on the voice cues — six levels scheduled for you, no counting on screen
+- [Kegel Training](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.1): put on headphones and tighten and release on the voice cues — six levels scheduled for you, with time and reps charted automatically, no counting on screen
 - [Mindful Eating](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0): if you eat too fast, spend 10 minutes finishing slowly — a silent light-orb timer, then a couple of words about the meal saved on this device
 
 ### 📸 Imaging (2)
