@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (32 total)
+## 🚀 Projects (33 total)
 
 ### 💰 Investing (3)
 
@@ -45,9 +45,10 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Nomad Seasons](https://github.com/wanghoufan/nomad-seasons): ranks cities worth a long stay by month, climate, budget and connectivity
 - [Mahjong Beginner Assistant](https://github.com/wanghoufan/p046-mahjong-beginner-assistant): before your first Haikou-style mahjong table, see clearly when a hand can actually win — every rule shown on real tiles
 
-### 🗣️ Language Learning (1)
+### 📚 Learning & Growth (2)
 
 - [SocialMate Foreign-Language Social System](https://github.com/wanghoufan/alw-001-foreign-language-social-system): pick topics and drill speaking at a chosen scene difficulty, then turn the real conversation into persona files you can pick up next time
+- [Sister's Audiobook Cabin](https://github.com/wanghoufan/p051-sister-audiobook-cabin): the family's audiobook courses in a cabin on the phone — browse by subject and level, sleep timer, keeps playing offline
 
 ### 🏃 Health (5)
 
