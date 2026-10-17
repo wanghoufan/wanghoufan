@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 32 个）
+## 🚀 作品（共 33 个）
 
 ### 💰 投资理财（3）
 
@@ -45,9 +45,10 @@
 - [候鸟 · 数字游民旅居季](https://github.com/wanghoufan/nomad-seasons)：按月份气候预算网络筛出适合长住的城市并排出高低
 - [麻将小白助手](https://github.com/wanghoufan/p046-mahjong-beginner-assistant)：第一次上桌打海南麻将前，先把「什么情况下能胡」看明白，规则全配真实牌面
 
-### 🗣️ 语言学习（1）
+### 📚 学习成长（2）
 
 - [SocialMate 外语社交系统](https://github.com/wanghoufan/alw-001-foreign-language-social-system)：练前挑话题、按场景难度模拟口语，聊完把真实交流整理成下次能续上的人物档案
+- [妹妹的听书小屋](https://github.com/wanghoufan/p051-sister-audiobook-cabin)：家里的听书课程装进手机小屋，按学科难度找课、睡前定时，没网也能继续听
 
 ### 🏃 健康（5）
 
