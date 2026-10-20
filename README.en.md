@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (33 total)
+## 🚀 Projects (34 total)
 
 ### 💰 Investing (3)
 
@@ -50,13 +50,14 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [SocialMate Foreign-Language Social System](https://github.com/wanghoufan/alw-001-foreign-language-social-system): pick topics and drill speaking at a chosen scene difficulty, then turn the real conversation into persona files you can pick up next time
 - [Sister's Audiobook Cabin](https://github.com/wanghoufan/p051-sister-audiobook-cabin): the family's audiobook courses in a cabin on the phone — browse by subject and level, sleep timer, keeps playing offline
 
-### 🏃 Health (5)
+### 🏃 Health (6)
 
 - [Stretch Voice Coach](https://github.com/wanghoufan/p025-stretch-routine-app): it reads the moves and the beat out loud, so you never watch the clock — just follow along
 - [Stretch Side Timer](https://github.com/wanghoufan/p020-stretch-side-timer): pings you when it is time to switch sides, with a little animal practising alongside you
 - [Protein Calculator](https://github.com/wanghoufan/p027-protein-calculator): how much protein you need each day and how short this meal is — targets from body weight, high-protein foods one tap away
 - [Kegel Training](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.1): put on headphones and tighten and release on the voice cues — six levels scheduled for you, with time and reps charted automatically, no counting on screen
 - [Mindful Eating](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0): if you eat too fast, spend 10 minutes finishing slowly — a silent light-orb timer, then a couple of words about the meal saved on this device
+- [BlinkGuard](https://github.com/wanghoufan/p053-eye-health-monitor): an idle phone beside your monitor counts your blinks and reminds you to blink again, with the daily eye-use trend kept on the device
 
 ### 📸 Imaging (2)
 
