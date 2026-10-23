@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (34 total)
+## 🚀 Projects (35 total)
 
 ### 💰 Investing (3)
 
@@ -33,7 +33,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Prompt Manager](https://github.com/wanghoufan/p006-prompt-manager): keep prompts as searchable cards, see how often each was copied, and let an AI coding agent pick one up with a single "retrieve" command
 - [AI Storyboard Studio](https://github.com/wanghoufan/p044-ai-storyboard-studio): give it a topic and a script and get an illustrated shot list — one frame per shot, usable straight away in short-video preproduction
 
-### 🎉 Parties & Everyday Life (9)
+### 🎉 Parties & Everyday Life (10)
 
 - [Bar Games](https://github.com/wanghoufan/p039-bar-games): agree on headcount, limits and landmines first, then it rotates the prompts automatically — open it on your phone and start
 - [Party Night](https://github.com/wanghoufan/p028-party-night): truth or dare and "who is most likely to…" — it takes care of the awkward silences
@@ -44,6 +44,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [50 Haikou Cafés](https://github.com/wanghoufan/50-haikou-cafes): a city coffee guide written for people willing to walk down an alley for a single shop
 - [Nomad Seasons](https://github.com/wanghoufan/nomad-seasons): ranks cities worth a long stay by month, climate, budget and connectivity
 - [Mahjong Beginner Assistant](https://github.com/wanghoufan/p046-mahjong-beginner-assistant): before your first Haikou-style mahjong table, see clearly when a hand can actually win — every rule shown on real tiles
+- [Haikou Go](https://wanghoufan.github.io/haikou-go/): a daily guide to what's worth doing in Haikou — events, shows, exhibitions and meetups sorted into tonight, this weekend and the coming month, with a clear next step on each
 
 ### 📚 Learning & Growth (2)
 
