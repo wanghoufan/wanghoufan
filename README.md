@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 36 个）
+## 🚀 作品（共 37 个）
 
 ### 💰 投资理财（3）
 
@@ -39,7 +39,7 @@
 - [聚会游戏 Party Night](https://github.com/wanghoufan/p028-party-night)：真心话大冒险和谁最可能轮着上，冷场交给它
 - [夜间现场录音](https://github.com/wanghoufan/p041-nightrec)：整夜 DJ 现场录成一条不断带的录音，边录边识曲
 - [才艺展示厅](https://github.com/wanghoufan/p040-talent-showroom)：练的歌和谱分库记下调性，循环变速陪练，离线装进手机
-- [舞蹈大师](https://github.com/wanghoufan/p057-douyin-dance-master)：想学的抖音舞攒成一份清单，用自己的视频按八拍分段练，只循环副歌、慢放看清脚下
+- [舞蹈大师](https://wanghoufan.github.io/p003-houfan-xuezhang-site/projects/dance-master/)：想学的抖音舞攒成一份清单，用自己的视频按八拍分段练，只循环副歌、慢放看清脚下
 - [生活物种](https://github.com/wanghoufan/p002-life-species-test)：24 道小问题测出你的生活物种，拿到专属人格卡片
 - [地点手账](https://github.com/wanghoufan/p011-place-journal)：去过的地方攒成手账，按地点和标签翻回那天的感觉
 - [海口 50 家咖啡店](https://github.com/wanghoufan/50-haikou-cafes)：给愿意为一家店走一条巷子的人写的城市咖啡指南
@@ -52,14 +52,15 @@
 - [SocialMate 外语社交系统](https://github.com/wanghoufan/alw-001-foreign-language-social-system)：练前挑话题、按场景难度模拟口语，聊完把真实交流整理成下次能续上的人物档案
 - [妹妹的听书小屋](https://github.com/wanghoufan/p051-sister-audiobook-cabin)：家里的听书课程装进手机小屋，按学科难度找课、睡前定时，没网也能继续听
 
-### 🏃 健康（6）
+### 🏃 健康（7）
 
 - [拉伸语音播报](https://github.com/wanghoufan/p025-stretch-routine-app)：动作和节拍靠语音念给你听，跟着走完一轮就行
 - [拉伸换边计时器](https://github.com/wanghoufan/p020-stretch-side-timer)：这边响完提醒换那边，还有小动物陪着练
 - [蛋白质计算器](https://github.com/wanghoufan/p027-protein-calculator)：每天该吃多少蛋白、这顿还差多少，按体重给目标，高蛋白食物一查就能加
 - [盆底肌训练](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.1)：戴上耳机跟着语音收紧放松，六级进阶自动排课，训练时长与次数自动统计，不用盯屏幕数次数
 - [慢食刻](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0)：吃饭太快就先按 10 分钟慢慢吃完，光球计时全程静音，饭后说两句感受存进本机
-- [眨眼守护](https://github.com/wanghoufan/p053-eye-health-monitor)：闲置手机架在显示器旁替你数眨眼，盯久了响一声、说一句「眨眨眼」，用眼趋势顺手记下来
+- [眨眼守护](https://wanghoufan.github.io/blinkguard-site/)：闲置手机架在显示器旁替你数眨眼，盯久了响一声、说一句「眨眨眼」，用眼趋势顺手记下来
+- [姿势守护](https://wanghoufan.github.io/posture-guard-site/)：手机放身边就盯坐姿，头前伸、久坐低头都本地识别并语音提醒起身，画面不离开手机
 
 ### 📸 影像（2）
 
