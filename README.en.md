@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (36 total)
+## 🚀 Projects (37 total)
 
 ### 💰 Investing (3)
 
@@ -39,7 +39,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Party Night](https://github.com/wanghoufan/p028-party-night): truth or dare and "who is most likely to…" — it takes care of the awkward silences
 - [Nightrec](https://github.com/wanghoufan/p041-nightrec): records a whole late-night DJ set as one continuous take and identifies tracks while it records
 - [Talent Showroom](https://github.com/wanghoufan/p040-talent-showroom): keeps songs and scores in separate libraries with their keys, loops and tempo practice, offline on your phone
-- [Dance Master](https://github.com/wanghoufan/p057-douyin-dance-master): keep the dances you want to learn in one list, then practise them eight counts at a time with your own video — loop the chorus, slow it down, mirror it
+- [Dance Master](https://wanghoufan.github.io/p003-houfan-xuezhang-site/projects/dance-master/): keep the dances you want to learn in one list, then practise them eight counts at a time with your own video — loop the chorus, slow it down, mirror it
 - [Life Species Quiz](https://github.com/wanghoufan/p002-life-species-test): twenty-four little questions reveal your life species and hand you a personality card
 - [Place Journal](https://github.com/wanghoufan/p011-place-journal): collect the places you have been and flip back to how that day felt, by place and by tag
 - [50 Haikou Cafés](https://github.com/wanghoufan/50-haikou-cafes): a city coffee guide written for people willing to walk down an alley for a single shop
@@ -52,14 +52,15 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [SocialMate Foreign-Language Social System](https://github.com/wanghoufan/alw-001-foreign-language-social-system): pick topics and drill speaking at a chosen scene difficulty, then turn the real conversation into persona files you can pick up next time
 - [Sister's Audiobook Cabin](https://github.com/wanghoufan/p051-sister-audiobook-cabin): the family's audiobook courses in a cabin on the phone — browse by subject and level, sleep timer, keeps playing offline
 
-### 🏃 Health (6)
+### 🏃 Health (7)
 
 - [Stretch Voice Coach](https://github.com/wanghoufan/p025-stretch-routine-app): it reads the moves and the beat out loud, so you never watch the clock — just follow along
 - [Stretch Side Timer](https://github.com/wanghoufan/p020-stretch-side-timer): pings you when it is time to switch sides, with a little animal practising alongside you
 - [Protein Calculator](https://github.com/wanghoufan/p027-protein-calculator): how much protein you need each day and how short this meal is — targets from body weight, high-protein foods one tap away
 - [Kegel Training](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.1): put on headphones and tighten and release on the voice cues — six levels scheduled for you, with time and reps charted automatically, no counting on screen
 - [Mindful Eating](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0): if you eat too fast, spend 10 minutes finishing slowly — a silent light-orb timer, then a couple of words about the meal saved on this device
-- [BlinkGuard](https://github.com/wanghoufan/p053-eye-health-monitor): an idle phone beside your monitor counts your blinks and reminds you to blink again, with the daily eye-use trend kept on the device
+- [BlinkGuard](https://wanghoufan.github.io/blinkguard-site/): an idle phone beside your monitor counts your blinks and reminds you to blink again, with the daily eye-use trend kept on the device
+- [PostureGuard](https://wanghoufan.github.io/posture-guard-site/): leave the phone beside you — spots head lean, slouch and long looking-down on device and nudges you to stand up, camera frames never leave the phone
 
 ### 📸 Imaging (2)
 
