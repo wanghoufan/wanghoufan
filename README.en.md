@@ -39,7 +39,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Party Night](https://github.com/wanghoufan/p028-party-night): truth or dare and "who is most likely to…" — it takes care of the awkward silences
 - [Nightrec](https://github.com/wanghoufan/p041-nightrec): records a whole late-night DJ set as one continuous take and identifies tracks while it records
 - [Talent Showroom](https://github.com/wanghoufan/p040-talent-showroom): keeps songs and scores in separate libraries with their keys, loops and tempo practice, offline on your phone
-- [Dance Master](https://wanghoufan.github.io/p003-houfan-xuezhang-site/projects/dance-master/): keep the dances you want to learn in one list, then practise them eight counts at a time with your own video — loop the chorus, slow it down, mirror it
+- [Dance Master](https://wanghoufan.github.io/dance-master-site/): keep the dances you want to learn in one list, then practise them eight counts at a time with your own video — loop the chorus, slow it down, mirror it
 - [Life Species Quiz](https://github.com/wanghoufan/p002-life-species-test): twenty-four little questions reveal your life species and hand you a personality card
 - [Place Journal](https://github.com/wanghoufan/p011-place-journal): collect the places you have been and flip back to how that day felt, by place and by tag
 - [50 Haikou Cafés](https://github.com/wanghoufan/50-haikou-cafes): a city coffee guide written for people willing to walk down an alley for a single shop
