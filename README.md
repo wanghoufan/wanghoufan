@@ -61,7 +61,7 @@
 - [慢食刻](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0)：吃饭太快就先按 10 分钟慢慢吃完，光球计时全程静音，饭后说两句感受存进本机
 - [眨眼守护](https://wanghoufan.github.io/blinkguard-site/)：闲置手机架在显示器旁替你数眨眼，盯久了响一声、说一句「眨眨眼」，用眼趋势顺手记下来
 - [姿势守护](https://wanghoufan.github.io/posture-guard-site/)：手机放身边就盯坐姿，头前伸、久坐低头都本地识别并语音提醒起身，画面不离开手机
-- [肌肉守护者](https://github.com/wanghoufan/p064-muscle-guardian)：给长辈用的深蹲训练小工具，点一下时长就开始，带语音提示和安全提醒，数据只存本机
+- [肌肉守护者](https://p064-muscle-guardian.pages.dev)：给长辈用的深蹲训练小工具，点一下时长就开始，带语音提示和安全提醒，数据只存本机
 
 ### 📸 影像（2）
 
