@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (37 total)
+## 🚀 Projects (38 total)
 
 ### 💰 Investing (3)
 
@@ -52,7 +52,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [SocialMate Foreign-Language Social System](https://github.com/wanghoufan/alw-001-foreign-language-social-system): pick topics and drill speaking at a chosen scene difficulty, then turn the real conversation into persona files you can pick up next time
 - [Sister's Audiobook Cabin](https://github.com/wanghoufan/p051-sister-audiobook-cabin): the family's audiobook courses in a cabin on the phone — browse by subject and level, sleep timer, keeps playing offline
 
-### 🏃 Health (7)
+### 🏃 Health (8)
 
 - [Stretch Voice Coach](https://github.com/wanghoufan/p025-stretch-routine-app): it reads the moves and the beat out loud, so you never watch the clock — just follow along
 - [Stretch Side Timer](https://github.com/wanghoufan/p020-stretch-side-timer): pings you when it is time to switch sides, with a little animal practising alongside you
@@ -61,6 +61,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Mindful Eating](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0): if you eat too fast, spend 10 minutes finishing slowly — a silent light-orb timer, then a couple of words about the meal saved on this device
 - [BlinkGuard](https://wanghoufan.github.io/blinkguard-site/): an idle phone beside your monitor counts your blinks and reminds you to blink again, with the daily eye-use trend kept on the device
 - [PostureGuard](https://wanghoufan.github.io/posture-guard-site/): leave the phone beside you — spots head lean, slouch and long looking-down on device and nudges you to stand up, camera frames never leave the phone
+- [Muscle Guardian](https://github.com/wanghoufan/p064-muscle-guardian): a squat-training companion for elders — tap a duration to start, voice cues and safety reminders included, all data stays on device
 
 ### 📸 Imaging (2)
 
