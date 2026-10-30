@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 37 个）
+## 🚀 作品（共 38 个）
 
 ### 💰 投资理财（3）
 
@@ -52,7 +52,7 @@
 - [SocialMate 外语社交系统](https://github.com/wanghoufan/alw-001-foreign-language-social-system)：练前挑话题、按场景难度模拟口语，聊完把真实交流整理成下次能续上的人物档案
 - [妹妹的听书小屋](https://github.com/wanghoufan/p051-sister-audiobook-cabin)：家里的听书课程装进手机小屋，按学科难度找课、睡前定时，没网也能继续听
 
-### 🏃 健康（7）
+### 🏃 健康（8）
 
 - [拉伸语音播报](https://github.com/wanghoufan/p025-stretch-routine-app)：动作和节拍靠语音念给你听，跟着走完一轮就行
 - [拉伸换边计时器](https://github.com/wanghoufan/p020-stretch-side-timer)：这边响完提醒换那边，还有小动物陪着练
@@ -61,6 +61,7 @@
 - [慢食刻](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0)：吃饭太快就先按 10 分钟慢慢吃完，光球计时全程静音，饭后说两句感受存进本机
 - [眨眼守护](https://wanghoufan.github.io/blinkguard-site/)：闲置手机架在显示器旁替你数眨眼，盯久了响一声、说一句「眨眨眼」，用眼趋势顺手记下来
 - [姿势守护](https://wanghoufan.github.io/posture-guard-site/)：手机放身边就盯坐姿，头前伸、久坐低头都本地识别并语音提醒起身，画面不离开手机
+- [肌肉守护者](https://github.com/wanghoufan/p064-muscle-guardian)：给长辈用的深蹲训练小工具，点一下时长就开始，带语音提示和安全提醒，数据只存本机
 
 ### 📸 影像（2）
 
