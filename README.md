@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 38 个）
+## 🚀 作品（共 40 个）
 
 ### 💰 投资理财（3）
 
@@ -33,7 +33,7 @@
 - [提示词管理器](https://github.com/wanghoufan/p006-prompt-manager)：常用提示词存成能搜的卡片，复制过几次一目了然，还能让 AI 编程助手一句「调取」就按它开工
 - [AI 图文短剧分镜生成器](https://github.com/wanghoufan/p044-ai-storyboard-studio)：输入主题和剧本就出图文分镜，每个镜头配一张画面，短视频前期直接能用
 
-### 🎉 聚会与生活（11）
+### 🎉 聚会与生活（12）
 
 - [酒吧游戏](https://github.com/wanghoufan/p039-bar-games)：人数尺度雷区先说好，玩法自动轮流出题，手机打开就开局
 - [聚会游戏 Party Night](https://github.com/wanghoufan/p028-party-night)：真心话大冒险和谁最可能轮着上，冷场交给它
@@ -46,13 +46,14 @@
 - [候鸟 · 数字游民旅居季](https://github.com/wanghoufan/nomad-seasons)：按月份气候预算网络筛出适合长住的城市并排出高低
 - [麻将小白助手](https://github.com/wanghoufan/p046-mahjong-beginner-assistant)：第一次上桌打海南麻将前，先把「什么情况下能胡」看明白，规则全配真实牌面
 - [海口去哪玩](https://wanghoufan.github.io/haikou-go/)：每天汇总海口值得去的活动、展览、演出和社群聚会，按今晚、本周末、未来一个月分好，告诉你去之前要先做什么，打开就能定去哪
+- [上次啥时候](https://wanghoufan.github.io/p067-last-time-when/)：没固定周期却又总想不起上次是哪天的事，一页看到距今天数，一键记一次，断网也能用
 
 ### 📚 学习成长（2）
 
 - [SocialMate 外语社交系统](https://github.com/wanghoufan/alw-001-foreign-language-social-system)：练前挑话题、按场景难度模拟口语，聊完把真实交流整理成下次能续上的人物档案
 - [妹妹的听书小屋](https://github.com/wanghoufan/p051-sister-audiobook-cabin)：家里的听书课程装进手机小屋，按学科难度找课、睡前定时，没网也能继续听
 
-### 🏃 健康（8）
+### 🏃 健康（9）
 
 - [拉伸语音播报](https://github.com/wanghoufan/p025-stretch-routine-app)：动作和节拍靠语音念给你听，跟着走完一轮就行
 - [拉伸换边计时器](https://github.com/wanghoufan/p020-stretch-side-timer)：这边响完提醒换那边，还有小动物陪着练
@@ -62,6 +63,7 @@
 - [眨眼守护](https://wanghoufan.github.io/blinkguard-site/)：闲置手机架在显示器旁替你数眨眼，盯久了响一声、说一句「眨眨眼」，用眼趋势顺手记下来
 - [姿势守护](https://wanghoufan.github.io/posture-guard-site/)：手机放身边就盯坐姿，头前伸、久坐低头都本地识别并语音提醒起身，画面不离开手机
 - [肌肉守护者](https://p064-muscle-guardian.pages.dev)：给长辈用的深蹲训练小工具，点一下时长就开始，带语音提示和安全提醒，数据只存本机
+- [再久一点](https://github.com/wanghoufan/p068-zai-jiu-yi-dian)：静蹲、平板支撑设个目标倒计时，每满三分钟报一次，到点还能继续往上加
 
 ### 📸 影像（2）
 
