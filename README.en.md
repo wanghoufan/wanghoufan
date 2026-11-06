@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (38 total)
+## 🚀 Projects (40 total)
 
 ### 💰 Investing (3)
 
@@ -33,7 +33,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Prompt Manager](https://github.com/wanghoufan/p006-prompt-manager): keep prompts as searchable cards, see how often each was copied, and let an AI coding agent pick one up with a single "retrieve" command
 - [AI Storyboard Studio](https://github.com/wanghoufan/p044-ai-storyboard-studio): give it a topic and a script and get an illustrated shot list — one frame per shot, usable straight away in short-video preproduction
 
-### 🎉 Parties & Everyday Life (11)
+### 🎉 Parties & Everyday Life (12)
 
 - [Bar Games](https://github.com/wanghoufan/p039-bar-games): agree on headcount, limits and landmines first, then it rotates the prompts automatically — open it on your phone and start
 - [Party Night](https://github.com/wanghoufan/p028-party-night): truth or dare and "who is most likely to…" — it takes care of the awkward silences
@@ -46,13 +46,14 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Nomad Seasons](https://github.com/wanghoufan/nomad-seasons): ranks cities worth a long stay by month, climate, budget and connectivity
 - [Mahjong Beginner Assistant](https://github.com/wanghoufan/p046-mahjong-beginner-assistant): before your first Haikou-style mahjong table, see clearly when a hand can actually win — every rule shown on real tiles
 - [Haikou Go](https://wanghoufan.github.io/haikou-go/): a daily guide to what's worth doing in Haikou — events, shows, exhibitions and meetups sorted into tonight, this weekend and the coming month, with a clear next step on each
+- [WhenLast](https://wanghoufan.github.io/p067-last-time-when/): chores with no fixed cycle show days-since on one page, one tap records it, and it still works offline
 
 ### 📚 Learning & Growth (2)
 
 - [SocialMate Foreign-Language Social System](https://github.com/wanghoufan/alw-001-foreign-language-social-system): pick topics and drill speaking at a chosen scene difficulty, then turn the real conversation into persona files you can pick up next time
 - [Sister's Audiobook Cabin](https://github.com/wanghoufan/p051-sister-audiobook-cabin): the family's audiobook courses in a cabin on the phone — browse by subject and level, sleep timer, keeps playing offline
 
-### 🏃 Health (8)
+### 🏃 Health (9)
 
 - [Stretch Voice Coach](https://github.com/wanghoufan/p025-stretch-routine-app): it reads the moves and the beat out loud, so you never watch the clock — just follow along
 - [Stretch Side Timer](https://github.com/wanghoufan/p020-stretch-side-timer): pings you when it is time to switch sides, with a little animal practising alongside you
@@ -62,6 +63,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [BlinkGuard](https://wanghoufan.github.io/blinkguard-site/): an idle phone beside your monitor counts your blinks and reminds you to blink again, with the daily eye-use trend kept on the device
 - [PostureGuard](https://wanghoufan.github.io/posture-guard-site/): leave the phone beside you — spots head lean, slouch and long looking-down on device and nudges you to stand up, camera frames never leave the phone
 - [Muscle Guardian](https://p064-muscle-guardian.pages.dev): a squat-training companion for elders — tap a duration to start, voice cues and safety reminders included, all data stays on device
+- [A Little Longer](https://github.com/wanghoufan/p068-zai-jiu-yi-dian): planks and wall sits with a target countdown, a voice check-in every three minutes, and room to keep going
 
 ### 📸 Imaging (2)
 
