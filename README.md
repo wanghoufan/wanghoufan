@@ -59,7 +59,7 @@
 - [拉伸换边计时器](https://github.com/wanghoufan/p020-stretch-side-timer)：这边响完提醒换那边，还有小动物陪着练
 - [蛋白质计算器](https://github.com/wanghoufan/p027-protein-calculator)：每天该吃多少蛋白、这顿还差多少，按体重给目标，高蛋白食物一查就能加
 - [盆底肌训练](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.1)：戴上耳机跟着语音收紧放松，六级进阶自动排课，训练时长与次数自动统计，不用盯屏幕数次数
-- [慢食刻](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0)：吃饭太快就先按 10 分钟慢慢吃完，光球计时全程静音，饭后说两句感受存进本机
+- [慢食刻](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.1.0)：吃饭太快就先按 10 分钟慢慢吃完，光球计时全程静音，饭后说两句感受存进本机
 - [眨眼守护](https://wanghoufan.github.io/blinkguard-site/)：闲置手机架在显示器旁替你数眨眼，盯久了响一声、说一句「眨眨眼」，用眼趋势顺手记下来
 - [姿势守护](https://wanghoufan.github.io/posture-guard-site/)：手机放身边就盯坐姿，头前伸、久坐低头都本地识别并语音提醒起身，画面不离开手机
 - [肌肉守护者](https://p064-muscle-guardian.pages.dev)：给长辈用的深蹲训练小工具，点一下时长就开始，带语音提示和安全提醒，数据只存本机

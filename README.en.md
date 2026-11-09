@@ -59,7 +59,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Stretch Side Timer](https://github.com/wanghoufan/p020-stretch-side-timer): pings you when it is time to switch sides, with a little animal practising alongside you
 - [Protein Calculator](https://github.com/wanghoufan/p027-protein-calculator): how much protein you need each day and how short this meal is — targets from body weight, high-protein foods one tap away
 - [Kegel Training](https://github.com/wanghoufan/p045-kegel-training/releases/tag/v1.1): put on headphones and tighten and release on the voice cues — six levels scheduled for you, with time and reps charted automatically, no counting on screen
-- [Mindful Eating](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.0.0): if you eat too fast, spend 10 minutes finishing slowly — a silent light-orb timer, then a couple of words about the meal saved on this device
+- [Mindful Eating](https://github.com/wanghoufan/p047-mindful-eating/releases/tag/v1.1.0): if you eat too fast, spend 10 minutes finishing slowly — a silent light-orb timer, then a couple of words about the meal saved on this device
 - [BlinkGuard](https://wanghoufan.github.io/blinkguard-site/): an idle phone beside your monitor counts your blinks and reminds you to blink again, with the daily eye-use trend kept on the device
 - [PostureGuard](https://wanghoufan.github.io/posture-guard-site/): leave the phone beside you — spots head lean, slouch and long looking-down on device and nudges you to stand up, camera frames never leave the phone
 - [Muscle Guardian](https://p064-muscle-guardian.pages.dev): a squat-training companion for elders — tap a duration to start, voice cues and safety reminders included, all data stays on device
