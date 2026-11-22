@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 作品（共 40 个）
+## 🚀 作品（共 41 个）
 
 ### 💰 投资理财（3）
 
@@ -65,10 +65,11 @@
 - [肌肉守护者](https://p064-muscle-guardian.pages.dev)：给长辈用的深蹲训练小工具，点一下时长就开始，带语音提示和安全提醒，数据只存本机
 - [再久一点](https://github.com/wanghoufan/p068-zai-jiu-yi-dian)：静蹲、平板支撑设个目标倒计时，每满三分钟报一次，到点还能继续往上加
 
-### 📸 影像（2）
+### 📸 影像（3）
 
 - [摄影作品库](https://github.com/wanghoufan/p015-photo-library)：按地点风格构图筛出满意的一批，链接一甩给别人看
 - [夜间补光灯](https://github.com/wanghoufan/p026-yejian-buguangdeng)：手边没灯时第二台手机就是补光灯，全屏常亮颜色强度随调
+- [双屏协同提词器](https://wanghoufan.github.io/p059-prompter-site/)：拍短视频时两台手机同页看词，谁翻页另一台跟着翻，第三台只管拍摄；稿子原样保存，AI 只算分页
 
 ### 🧭 方法与体系（3）
 
