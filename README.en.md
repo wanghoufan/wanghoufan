@@ -13,7 +13,7 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 
 ---
 
-## 🚀 Projects (40 total)
+## 🚀 Projects (41 total)
 
 ### 💰 Investing (3)
 
@@ -65,10 +65,11 @@ I'm **Houfan**, a lifelong learner based in Haikou, Hainan, exploring AI apps an
 - [Muscle Guardian](https://p064-muscle-guardian.pages.dev): a squat-training companion for elders — tap a duration to start, voice cues and safety reminders included, all data stays on device
 - [A Little Longer](https://github.com/wanghoufan/p068-zai-jiu-yi-dian): planks and wall sits with a target countdown, a voice check-in every three minutes, and room to keep going
 
-### 📸 Imaging (2)
+### 📸 Imaging (3)
 
 - [Photo Library](https://github.com/wanghoufan/p015-photo-library): filter shots by location, style and composition, then hand someone a single link
 - [Night Fill Light](https://github.com/wanghoufan/p026-yejian-buguangdeng): when you have no lamp, a second phone becomes a full-screen fill light with colour and intensity on a dial
+- [Dual-Screen Teleprompter](https://wanghoufan.github.io/p059-prompter-site/): two phones read the same page while a third keeps filming — turn a page on one and the other follows; the script stays intact and AI only decides the page breaks
 
 ### 🧭 Methods & Systems (3)
 
